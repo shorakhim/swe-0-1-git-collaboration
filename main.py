@@ -3,6 +3,13 @@ print("Title: Becoming Engineers")
 print("Setting: ")
 print("Sho: Hey Zion, have you ever thought about what it takes to become an engineer?")
 print("Zion: Yeah, I have. I think it requires a lot of dedication and hard work.")
-print("Sho: Definitely. It's not just about studying, but also about applying what we learn in real-world situations.")
-print("Zion: Absolutely. We need to develop problem-solving skills and be able to work in teams.")
-print("Sho: And let's not forget about the importance of continuous learning. Technology is always evolving
+print(
+    "Sho: Definitely. It's not just about studying, but also about applying what we learn in real-world situations."
+)
+print(
+    "Zion: Absolutely. We need to develop problem-solving skills and be able to work in teams."
+)
+print(
+    "Sho: And let's not forget about the importance of continuous learning. Technology is always evolving"
+)
+print()
